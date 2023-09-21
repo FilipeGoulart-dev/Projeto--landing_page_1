@@ -39,6 +39,10 @@ body {
     font-weight: 400;
     font-size: 18px;
 }
+.cabecalho-menu-item:hover {
+    color: rgba(236, 214, 196, 0.53);
+    text-decoration: underline;
+}
 .conteudo {
     margin-bottom: 48px;
     border-top: 0.4px solid #fff2e7;
@@ -77,6 +81,9 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: #2f2325;
+}
+.conteudo-principal-escrito-botao:hover {
+    background-color: rgba(236, 214, 196, 0.53)
 }
 .conteudo-principal-imagem {
     height: 430px;
